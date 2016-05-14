@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_218ffaeeb47b64ee0353d56e1e6a517c48157fad.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_dabeadd387276925066535f7ddf234105254772e.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_2a8351abbf86beb7845444c4ae8dfd0ca3573f25.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_2addbd46177816806c45d06f4403cd325f2d8a62.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_ae09874df59b63e2c114c10cd5ec2a1ef04614a3.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_5a55976858a1d354642ff51e5754dc551c08b721.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-23.3.0_47b67aa01334c9bad567e973e1af1b27cdeb64c8.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_fbe0c5d75776aeff9b775b7ab91fa70c0cc9d983.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_611d3be5013fb7531330103c2d523b2fb788dc66.jar" />
+    </item>
+    <item
+        jar="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_1108a1976c5eddee392dffd43b325306627653c6.jar" />
+    </item>
+
+</items>
