@@ -44,7 +44,6 @@ public class MainActivity extends ActionBarActivity implements ActionBar.TabList
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
 
         // Set the Action Bar to use tabs for navigation
@@ -55,6 +54,7 @@ public class MainActivity extends ActionBarActivity implements ActionBar.TabList
         ab.addTab(ab.newTab().setText("Tab 1").setTabListener(this));
         ab.addTab(ab.newTab().setText("Tab 2").setTabListener(this));
         ab.addTab(ab.newTab().setText("Tab 3").setTabListener(this));
+        super.onCreate(savedInstanceState);
     }
 
     @Override
@@ -63,6 +63,7 @@ public class MainActivity extends ActionBarActivity implements ActionBar.TabList
                 != PackageManager.PERMISSION_GRANTED) {
             sensitiveLocation();
         }
+        super.onStart();
     }
 
     @Override

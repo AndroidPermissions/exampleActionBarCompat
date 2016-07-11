@@ -2,5 +2,9 @@
     {
         "merged": "/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/home/nelsonni/Workspace/ActionBarCompat-Styled/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/nelsonni/Workspace/exampleActionBarCompat/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/nelsonni/Workspace/exampleActionBarCompat/Application/src/main/res/menu/main.xml"
     }
 ]
